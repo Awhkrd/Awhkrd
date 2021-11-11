@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/Awhkrd/random-meal-idea-generator)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Awhkrd/random-meal-idea-generator)](https://github.com/Awhkrd/random-meal-idea-generator)
 <!--
 **Awhkrd/Awhkrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
