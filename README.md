@@ -1,13 +1,15 @@
 ### Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/Awhkrd/random-meal-idea-generator)](https://github.com/Awhkrd/random-meal-idea-generator)
-![](https://visitor-badge.glitch.me/badge?page_id=Awhkrd.Awhkrd)
+
 
 I'm Jing Wu(**Ava**), currently pursuing my master's degree in Health Data Science [!@UCL](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/health-data-science-msc)
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/50277379/141537269-256608e2-9a01-409c-9eba-74fa5b9a8145.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/jing-wu-415664184/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awhkrd/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCW9jW7p4g6PIXVKxmEFA23A)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jingwuava@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:jingwuava@gmail.com)
+
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -41,4 +43,6 @@ I'm Jing Wu(**Ava**), currently pursuing my master's degree in Health Data Scien
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Awhkrd&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awhkrd&hide=TeX&layout=compact)
+
+![](https://visitor-badge.glitch.me/badge?page_id=Awhkrd.Awhkrd)
 
