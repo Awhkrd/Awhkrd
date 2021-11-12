@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Jing Wu(**Ava**), currently pursuing my master's degree in Health Data Science [!@UCL](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/health-data-science-msc)
+I'm Jing Wu(**Ava**), currently pursuing my master's degree in Health Data Science [@UCL](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/health-data-science-msc)
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/50277379/141537269-256608e2-9a01-409c-9eba-74fa5b9a8145.gif)
 
