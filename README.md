@@ -1,17 +1,17 @@
-### Hi there <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="60px">
 
 <br />
 
 I'm Jing Wu(**Ava**), currently pursuing my master's degree in Health Data Science [@UCL](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/health-data-science-msc)
 
-https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/50277379/141679739-f1df625f-255d-49e9-874d-6d961275d608.png" width="500" height="500" />
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/jing-wu-415664184/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awhkrd/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCW9jW7p4g6PIXVKxmEFA23A)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:jingwuava@gmail.com)
 
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/50277379/141679739-f1df625f-255d-49e9-874d-6d961275d608.png" width="500" height="320" />
 
 <br />
 
