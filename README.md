@@ -1,4 +1,4 @@
-## Hi, there～ <img src="https://media.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif" width="60px">
+### Hi, there～ <img src="https://media.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif" width="60px">
 
 <br />
 
@@ -12,11 +12,13 @@ I'm Jing Wu(**Ava**), currently pursuing my master's degree in Health Data Scien
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/awhkrd/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCW9jW7p4g6PIXVKxmEFA23A)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:jingwuava@gmail.com)
+[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Awhkrd.Awhkrd)]
+[![Years Badge](https://badges.pufler.dev/years/Awhkrd)](https://badges.pufler.dev)
 
 
 <br />
 
-## Technologies
+### Technologies
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -70,5 +72,3 @@ I'm Jing Wu(**Ava**), currently pursuing my master's degree in Health Data Scien
 <p align="center"> <img src="https://user-images.githubusercontent.com/50277379/141537269-256608e2-9a01-409c-9eba-74fa5b9a8145.gif" />
 
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Awhkrd.Awhkrd)
-[![Years Badge](https://badges.pufler.dev/years/Awhkrd)](https://badges.pufler.dev)
