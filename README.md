@@ -1,8 +1,9 @@
-### Hi there <img src="https://media.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif" width="60px">
+## Hi, there. <img src="https://media.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif" width="60px">
 
 <br />
 
 I'm Jing Wu(**Ava**), currently pursuing my master's degree in Health Data Science [@UCL](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/health-data-science-msc)
+
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/50277379/141679739-f1df625f-255d-49e9-874d-6d961275d608.png" width="500" height="500" />
