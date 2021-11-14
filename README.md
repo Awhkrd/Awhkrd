@@ -44,5 +44,5 @@ I'm Jing Wu(**Ava**), currently pursuing my master's degree in Health Data Scien
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Awhkrd&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awhkrd&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Awhkrd)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Awhkrd.Awhkrd)
 [![Years Badge](https://badges.pufler.dev/years/Awhkrd)](https://badges.pufler.dev)
