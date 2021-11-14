@@ -1,4 +1,4 @@
-## Hi, there. <img src="https://media.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif" width="60px">
+## Hi, there～ <img src="https://media.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif" width="60px">
 
 <br />
 
@@ -67,7 +67,7 @@ I'm Jing Wu(**Ava**), currently pursuing my master's degree in Health Data Scien
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Awhkrd&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awhkrd&hide=TeX&layout=compact)
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/50277379/141537269-256608e2-9a01-409c-9eba-74fa5b9a8145.gif)
+<p align="center"> <img src="https://user-images.githubusercontent.com/50277379/141537269-256608e2-9a01-409c-9eba-74fa5b9a8145.gif" />
 
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Awhkrd.Awhkrd)
