@@ -4,6 +4,7 @@
 
 I'm Jing Wu(**Ava**), currently pursuing my master's degree in Health Data Science [@UCL](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/health-data-science-msc)
 
+- I'm working as a Ruby on Rails developer @Apruve(2020.06 - `r format(Sys.time(), '%d %B, %Y')`)
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/50277379/141679739-f1df625f-255d-49e9-874d-6d961275d608.png" width="500" height="500" />
