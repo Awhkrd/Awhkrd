@@ -6,8 +6,8 @@ I'm Jing Wu(**Ava**), currently pursuing the master's degree in Health Data Scie
 
 - I'm working as a Ruby on Rails web application developer [@Apruve](https://apruve.com/)(2020.06 - now)
 - I got my bachelor of science degree in Computer Science [@University of Minnesota, Twin cities](https://twin-cities.umn.edu/)
-- [Cooking](https://github.com/Awhkrd/random-meal-idea-generator) and sports make better me.
-- Recently, I'm reading [Reading List](https://github.com/Awhkrd/random-meal-idea-generator) and holding [stock list](https://github.com/Awhkrd/random-meal-idea-generator) 
+- [Cooking](https://github.com/Awhkrd/random-meal-idea-generator) and [Sports](https://github.com/Awhkrd/random-meal-idea-generator) make better me.
+- Recently, I'm reading [Reading List](https://github.com/Awhkrd/random-meal-idea-generator) and holding [Stock List](https://github.com/Awhkrd/random-meal-idea-generator) 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/50277379/141679739-f1df625f-255d-49e9-874d-6d961275d608.png" width="500" height="500" />
 
