@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 ### Hi, there～ <img src="https://media.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif" width="60px">
 
 <br />
